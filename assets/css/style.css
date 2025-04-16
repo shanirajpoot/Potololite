@@ -252,8 +252,8 @@ height: 100vh;
 }
 /* ########################################### Image Container End######################################################## */
 .her0-girlimage{
-    width: 100%;
-    height: 100%;
+    width: 94%;
+    
 }
 @media(max-width:1240px){
     .hero-section{
