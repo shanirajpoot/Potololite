@@ -713,6 +713,9 @@ width: 113px;
   line-height: 30px;
   color: #5C6574;
 }
+h6{
+  font-size: 13px;
+}
 .social-icons {
   display: flex;
   flex-direction: row;
