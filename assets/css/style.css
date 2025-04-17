@@ -133,6 +133,13 @@ height: 100vh;
   font-size: 21px;
   color: #999A9D;
 }
+
+@media(max-width:1240px){
+  .hero-section{
+    height: fit-content;
+    }
+}
+
 @media(max-width:470px){
   .hero-headings h1{
     font-size: 2rem;
@@ -252,7 +259,7 @@ height: 100vh;
 }
 /* ########################################### Image Container End######################################################## */
 .her0-girlimage{
-    width: 100%;
+    width: 94%;
     
 }
 @media(max-width:1240px){
@@ -260,7 +267,7 @@ height: 100vh;
         height: fit-content;
     }
     .her0-girlimage{
-      width: 94%;
+      width: 100%;
       
   }
 }
